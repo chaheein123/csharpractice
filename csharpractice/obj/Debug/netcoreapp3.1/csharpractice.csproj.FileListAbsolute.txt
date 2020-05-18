@@ -1,0 +1,12 @@
+/Users/heecha/Desktop/practice/csharpractice/csharpractice/bin/Debug/netcoreapp3.1/csharpractice.deps.json
+/Users/heecha/Desktop/practice/csharpractice/csharpractice/bin/Debug/netcoreapp3.1/csharpractice.runtimeconfig.json
+/Users/heecha/Desktop/practice/csharpractice/csharpractice/bin/Debug/netcoreapp3.1/csharpractice.runtimeconfig.dev.json
+/Users/heecha/Desktop/practice/csharpractice/csharpractice/bin/Debug/netcoreapp3.1/csharpractice.dll
+/Users/heecha/Desktop/practice/csharpractice/csharpractice/bin/Debug/netcoreapp3.1/csharpractice.pdb
+/Users/heecha/Desktop/practice/csharpractice/csharpractice/obj/Debug/netcoreapp3.1/csharpractice.csprojAssemblyReference.cache
+/Users/heecha/Desktop/practice/csharpractice/csharpractice/obj/Debug/netcoreapp3.1/csharpractice.csproj.CoreCompileInputs.cache
+/Users/heecha/Desktop/practice/csharpractice/csharpractice/obj/Debug/netcoreapp3.1/csharpractice.AssemblyInfoInputs.cache
+/Users/heecha/Desktop/practice/csharpractice/csharpractice/obj/Debug/netcoreapp3.1/csharpractice.AssemblyInfo.cs
+/Users/heecha/Desktop/practice/csharpractice/csharpractice/obj/Debug/netcoreapp3.1/csharpractice.dll
+/Users/heecha/Desktop/practice/csharpractice/csharpractice/obj/Debug/netcoreapp3.1/csharpractice.pdb
+/Users/heecha/Desktop/practice/csharpractice/csharpractice/obj/Debug/netcoreapp3.1/csharpractice.genruntimeconfig.cache

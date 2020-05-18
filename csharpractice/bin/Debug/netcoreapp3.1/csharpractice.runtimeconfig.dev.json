@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/heecha/.dotnet/store/|arch|/|tfm|",
+      "/Users/heecha/.nuget/packages"
+    ]
+  }
+}
