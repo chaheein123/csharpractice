@@ -26,19 +26,7 @@ namespace csharpractice
 
         answer[j] = Math.Min(Math.Abs(j - zeroList[leftPointer]), Math.Abs(zeroList[rightPointer] - j));
       }
-
-
-
-
-
-
-
-      foreach (var yo in answer)
-      {
-        Console.WriteLine(yo);
-      };
-
-      return new int[] { 1, 2, 3 };
+      return answer;
     }
   }
 }

@@ -9,7 +9,10 @@ namespace csharpractice
   {
     static void Main(string[] args)
     {
-      Console.WriteLine(new Solution().ShortestToChar("loveleetcode", 'e'));
+      BS.binaryS();
+      //var yoyo = new int[] { 1, 2, 3, 45, 88, 99 };
+      //var meme = Array.BinarySearch(yoyo, 89);
+      //Console.WriteLine(meme);
 
     }
 
