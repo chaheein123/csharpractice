@@ -1,17 +1,16 @@
 ﻿<Properties StartupConfiguration="{E9945457-96D0-49C1-ACCC-5082D182BDB7}|Default">
   <MonoDevelop.Ide.ItemProperties.csharpractice PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="csharpractice/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="csharpractice/EmptyClass.cs">
     <Files>
-      <File FileName="csharpractice/Program.cs" Line="29" Column="6" />
-      <File FileName="csharpractice/Person.cs" />
-      <File FileName="csharpractice/ClassesAndObjects.cs" Line="20" Column="17" NotebookId="1" />
+      <File FileName="csharpractice/EmptyClass.cs" Line="17" Column="1" />
+      <File FileName="csharpractice/Program.cs" Line="18" Column="1" NotebookId="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="csharpractice" expanded="True">
             <Node name="csharpractice" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="EmptyClass.cs" selected="True" />
             </Node>
           </Node>
         </State>
