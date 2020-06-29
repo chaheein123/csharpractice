@@ -9,11 +9,7 @@ namespace csharpractice
   {
     static void Main(string[] args)
     {
-      BS.binaryS();
-      //var yoyo = new int[] { 1, 2, 3, 45, 88, 99 };
-      //var meme = Array.BinarySearch(yoyo, 89);
-      //Console.WriteLine(meme);
-
+      Console.WriteLine(new Solution2().MaxProduct(new int[] { 3,4,5,2}));
     }
 
   }
