@@ -1,18 +1,17 @@
 ﻿<Properties StartupConfiguration="{E9945457-96D0-49C1-ACCC-5082D182BDB7}|Default">
   <MonoDevelop.Ide.ItemProperties.csharpractice PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="csharpractice/RunningSum.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="csharpractice/Program.cs">
     <Files>
-      <File FileName="csharpractice/ShortestToChar.cs" Line="6" Column="24" />
-      <File FileName="csharpractice/EmptyClass.cs" Line="15" Column="8" />
-      <File FileName="csharpractice/Solution4.cs" Line="11" Column="16" />
-      <File FileName="csharpractice/Program.cs" Line="12" Column="78" NotebookId="1" />
+      <File FileName="csharpractice/ShortestToChar.cs" Line="18" Column="40" />
+      <File FileName="csharpractice/Solution5.cs" Line="6" Column="21" />
+      <File FileName="csharpractice/Program.cs" Line="17" Column="1" NotebookId="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="csharpractice" expanded="True">
             <Node name="csharpractice" expanded="True">
-              <Node name="RunningSum.cs" selected="True" />
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>

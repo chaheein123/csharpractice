@@ -9,7 +9,7 @@ namespace csharpractice
   {
     static void Main(string[] args)
     {
-      Console.WriteLine(new Solution4().RunningSum(new int[] { 3, 1, 2, 10, 1 }));
+      Console.WriteLine(new Solution5().NumberOfSteps(8));
 
     }
   }
